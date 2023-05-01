@@ -1,6 +1,5 @@
 #ifndef Rectangle_h
 #define Rectangle_h
-using namespace std;
 class Rectangle {
 private:
     static int numOfRect;
