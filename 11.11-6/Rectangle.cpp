@@ -3,7 +3,8 @@
 using namespace std;
 int Rectangle::numOfRect = 0;
 Rectangle::Rectangle() {
-
+    width = 0;
+    height = 0;
 }
 Rectangle::~Rectangle() {
     numOfRect--;
