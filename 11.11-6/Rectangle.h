@@ -14,7 +14,7 @@ public:
     double getWidth() const;
     void setWidth(double);
     double getHeight() const;
-    void setHeight(double h);
+    void setHeight(double);
     double getArea() const;
     void print();
     static int getNumOfRect();
