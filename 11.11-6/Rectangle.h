@@ -1,6 +1,5 @@
 #ifndef Rectangle_h
 #define Rectangle_h
-#include<iostream>
 using namespace std;
 class Rectangle {
 private:
