@@ -1,4 +1,6 @@
+#include<iostream>
 #include "Rectangle.h"
+using namespace std;
 int Rectangle::numOfRect = 0;
 Rectangle::Rectangle() {
 
